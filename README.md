@@ -1,5 +1,5 @@
-🚀 42 İstanbul Havuz Projelerim
-Merhaba! 👋
+ 42 İstanbul Havuz Projelerim
+Merhaba! 
 
 Bu repo, 42 İstanbul havuz (Piscine) eğitimim boyunca tamamladığım projeleri içermektedir. Havuz, yoğun ve zorlu bir öğrenme süreciydi; bu süreçte C dilinin temellerinden shell komutlarına kadar birçok konuda kendimi geliştirme fırsatı buldum.
 
@@ -24,7 +24,7 @@ BSQ	Final Ekip Projesi✅
 ...	...	...
 
 
-🛠️ Kullanılan Teknolojiler
+ Kullanılan Teknolojiler
 Dil: C
 
 Shell: Bash / Zsh
@@ -35,7 +35,7 @@ Norm: 42 Norminette kurallarına uygunluk
 
 Araçlar: make, git, valgrind, gdb
 
-📁 Klasör Yapısı
+ Klasör Yapısı
 text
 42-piscine/
 │
@@ -47,7 +47,7 @@ text
 └── README.md
 Her klasörün içinde ilgili projeye ait kaynak dosyaları, Makefile ve gerekli durumlarda main.c test dosyaları bulunmaktadır. NOT: Proje Dökümanlarına göre bu değişiklik gösterebilir.
 
-⚙️ Nasıl Derlenir?
+ Nasıl Derlenir?
 Örnek olarak bir C projesini derlemek için:
 
 bash
@@ -58,12 +58,12 @@ Ya da bir Makefile varsa:
 
 bash
 make
-💡 Notlar
+ Notlar
 Bu projeler, 42 müfredatına uygun olarak Norminette kurallarına göre yazılmıştır.
 
-Kodlar eğitim amaçlıdır; kopyalamak yerine anlamaya çalışmanızı tavsiye ederim. 🤝
+Kodlar eğitim amaçlıdır; kopyalamak yerine anlamaya çalışmanızı tavsiye ederim. 
 
-Havuz süreci zorlu ama bir o kadar da öğreticiydi. "Don't panic!" 🐬
+Havuz süreci zorlu ama bir o kadar da öğreticiydi. "Don't panic!" 
 
 
 
